@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/projects/CLangProjects/SDL2Test/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MySDL2App.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MySDL2App.dir\\main.cpp.obj -c D:\\projects\\CLangProjects\\SDL2Test\\main.cpp",
+  "file": "D:/projects/CLangProjects/SDL2Test/main.cpp",
+  "output": "CMakeFiles/MySDL2App.dir/main.cpp.obj"
+}
+]
